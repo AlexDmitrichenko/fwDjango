@@ -1,0 +1,10 @@
+/myproject/hw1_app/__pycache__/
+/myproject/hw2_app/__pycache__/
+/myproject/hw2_app/migrations/__pycache__/
+/myproject/hw1_app/migrations/__pycache__/
+/myproject/myproject/__pycache__/
+/myproject/db.sqlite3
+/myproject/media/
+
+/myproject/django.log
+/.venv/
